@@ -53,9 +53,10 @@ h2 {
   margin: 20px 0 0 0;
 }
 
-.am-pm {
+small {
   font-size: 20px;
   vertical-align: middle;
+  padding: 0 0 0 10px;
 }
 
 footer {
